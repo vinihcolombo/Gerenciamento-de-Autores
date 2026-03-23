@@ -1,4 +1,4 @@
-package com.example.Produto.models;
+package com.example.autor.models;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
